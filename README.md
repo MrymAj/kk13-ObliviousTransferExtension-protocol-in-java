@@ -29,7 +29,7 @@ This is an implementation of the <a href="https://eprint.iacr.org/2013/491">KK13
  
  Authors: Vladimir Kolesnikov and Ranjit Kumaresan
  
- Book title: Advances in Cryptology - CRYPTO 2003 
+ Book title: Advances in Cryptology - CRYPTO 2013 
  
  Book Subtitle: 33rd Annual Cryptology Conference, Santa Barbara, CA, USA, August 18-22, 2013. Proceedings, Part II, Pages  54-70.
  
